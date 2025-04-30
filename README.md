@@ -58,7 +58,7 @@ Welcome to **Yara ElSakka's awesome AI recycling project**! 🚀 This fun little
 
 ```bash
 source venv/bin/activate
-python your_code_name.py
+python main.py
 ```
 
 Make sure your `.tflite` model is in the correct folder and the path is updated in the code! 📑
