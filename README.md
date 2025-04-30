@@ -1,5 +1,3 @@
-# Smart-Recycling-Detector
-Yara's Smart Recycling Detector!
 # 🌟 Yara's Smart Recycling Detector! 🤖📊
 
 Welcome to **Yara ElSakka's awesome AI recycling project**! 🚀 This fun little program helps us figure out where trash should go — using a camera 📷, some blinking lights 💡, and smart brainy AI 🧠 on a Raspberry Pi! 🤖
