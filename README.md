@@ -13,6 +13,12 @@ Welcome to **Yara ElSakka's awesome AI recycling project**! 🚀 This fun little
 
 ---
 
+## 🚀 What is the Project Anwayways ? 
+
+![IMG_5545(1)](https://github.com/user-attachments/assets/4ae9fbd9-6b20-47ba-ba7f-dbf15ef2dda3)
+
+---
+
 ## 🔧 What You Need
 
 - Raspberry Pi 4 🧸
